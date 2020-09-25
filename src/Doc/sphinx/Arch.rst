@@ -6,47 +6,10 @@ The Arch module is a metamodule that imports useful methods from several of the 
 .. toctree::
    :maxdepth: 4
 
-.. automodule:: Arch
-   :members:
-
-.. automodule:: ArchWall
-   :members:
-
-.. automodule:: ArchFloor
-   :members:
-
-.. automodule:: ArchSite
-   :members:
-
-.. automodule:: ArchStructure
-   :members:
-
-.. automodule:: ArchWindow
-   :members:
-
-.. automodule:: ArchSectionPlane
-   :members:
-
-.. automodule:: ArchBuilding
-   :members:
-
-.. automodule:: ArchCommands
-   :members:
-
-.. automodule:: ArchAxis
-   :members:
-
-.. automodule:: ArchRoof
-   :members:
-
-.. automodule:: ArchSpace
-   :members:
-
-.. automodule:: ArchStairs
-   :members:
-
-.. automodule:: ArchRebar
-   :members:
-
-.. automodule:: ArchFrame
-   :members:
+   ArchWall
+   ArchFloor
+   ArchSite
+   ArchProject
+   ArchTools
+   ArchComponent
+   ArchIFC

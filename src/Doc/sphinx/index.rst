@@ -24,14 +24,10 @@ This is the complete python API reference of the FreeCAD application
    Sketch.rst
    PartDesign.rst
    Draft.rst
-   DraftVecUtils.rst
-   DraftGeomUtils.rst
-   DraftTrackers.rst
-   DraftSnap.rst
-   DraftWorkingPlane.rst
    Arch.rst
    Drawing.rst
    RayTracing.rst
+   Fem.rst
 
 * :ref:`genindex`
 * :ref:`modindex`
